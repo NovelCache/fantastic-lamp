@@ -1,0 +1,19 @@
+{
+  "name": "fantastic-lamp",
+  "version": "1.0.0",
+  "description": "A generic web scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NovelCache/fantastic-lamp.git"
+  },
+  "author": "Illyohs, Feha",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/NovelCache/fantastic-lamp/issues"
+  },
+  "homepage": "https://github.com/NovelCache/fantastic-lamp#readme"
+}
